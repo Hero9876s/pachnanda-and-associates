@@ -44,5 +44,5 @@ const nextConfig = {
     ]
   },
 }
-
+console.log("test build fix");
 module.exports = nextConfig
